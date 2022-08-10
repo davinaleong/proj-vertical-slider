@@ -2,7 +2,7 @@
 
 Following a tutorial by Traversy Media [here](https://www.youtube.com/watch?v=JkeyKeK3V24).
 
-Demo link coming soon!
+Demo link can be found [here](https://davinaleong.github.io/proj-vertical-slider/)!
 
 ## Getting Started
 
